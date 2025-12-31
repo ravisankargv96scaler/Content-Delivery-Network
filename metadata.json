@@ -1,0 +1,5 @@
+{
+  "name": "47f-CDN Explorer",
+  "description": "An interactive educational application explaining how Content Delivery Networks work, featuring latency simulators, cache mechanics, and load balancing visualizations.",
+  "requestFramePermissions": []
+}
